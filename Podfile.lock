@@ -1,0 +1,15 @@
+PODS:
+  - PureLayout (3.0.2)
+  - SDCAlertView (7.1)
+
+DEPENDENCIES:
+  - PureLayout
+  - SDCAlertView
+
+SPEC CHECKSUMS:
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  SDCAlertView: b92fd1f00e522e18a062005e15a16c1e8295c5b5
+
+PODFILE CHECKSUM: 13a3217d6a154d735e91383ee04d2a9cf7b21139
+
+COCOAPODS: 1.2.0

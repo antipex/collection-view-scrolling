@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  CollectionViewScrolling
-//
-//  Created by Kyle Rohr on 22/2/17.
-//  Copyright © 2017 Antipex. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
